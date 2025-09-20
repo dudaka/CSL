@@ -44,6 +44,12 @@
 - Ctrl + F9: Execute till Return
 - Alt + F9: Run to User Code
 
+## Breakpoints (BPs)
+
+1. Setting/Removing 
+  - Double click into a line
+2. F9 to run to BP
+
 ## Preferences
 
 - [crackmes](https://crackmes.one/)
