@@ -50,6 +50,19 @@
   - Double click into a line
 2. F9 to run to BP
 
+
+## Breakpoints on Strings
+
+1. Setting/Removing (BP)
+2. F9 to run BP
+3. Arguments for calls
+
+
+To set a BP on a string:
+1. Look for the string
+- Scrolling, or
+- Right click > Search for > Current Module > String References
+
 ## Preferences
 
 - [crackmes](https://crackmes.one/)
