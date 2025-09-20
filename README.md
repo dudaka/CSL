@@ -36,6 +36,14 @@
 - EIP register
 - Restart
 
+## Stepping into Calls
+
+- F9: Run
+- F8: Step Over
+- F7: Step Into a Call
+- Ctrl + F9: Execute till Return
+- Alt + F9: Run to User Code
+
 ## Preferences
 
 - [crackmes](https://crackmes.one/)
